@@ -4,6 +4,7 @@
   <test name="Test">
     <classes>
       <class name="com.rameshsoft.git.GitTest.TestOne"/>
+      <class name="com.rameshsoft.git.GitTest.TestTwo"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
